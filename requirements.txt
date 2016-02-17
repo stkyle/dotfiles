@@ -1,0 +1,9 @@
+sphinx          # for the Object Inspector’s rich text mode and to get our documentation.
+rope            # for code completion, go-to-definition and calltips on the Editor.
+pyflakes        # for real-time code analysis.
+pylint          # for static code analysis.
+pep8            # for style analysis.
+numpy           # for N-dimensional arrays.
+scipy           # for signal and image processing.
+matplotlib      # for 2D and 3D plotting.
+psutil          # for memory/CPU usage in the status bar.
