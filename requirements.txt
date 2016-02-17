@@ -7,3 +7,12 @@ numpy           # for N-dimensional arrays.
 scipy           # for signal and image processing.
 matplotlib      # for 2D and 3D plotting.
 psutil          # for memory/CPU usage in the status bar.
+PyQt5           # PyQt5 is recommended.
+qtconsole       # Enhanced Python interpreter.
+Jedi            # Editor code completion, calltips and go-to-definition.
+Pygments        # Syntax highlighting for all file types it supports.
+Psutil          # CPU and memory usage on the status bar.
+Nbconvert       # Manipulation of notebooks in the Editor.
+Qtawesome       # To have an icon theme based on FontAwesome
+Pickleshare     # Show import completions on the Editor and Consoles
+autopep8        #
